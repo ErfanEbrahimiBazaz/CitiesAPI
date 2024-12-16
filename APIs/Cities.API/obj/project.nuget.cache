@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vy5NgaBRp7gKjpirhD2OXtfBxqa2r5WtgMFfy6v6GFe4NxWv8o8XrfSk1NHnaegeX8eUJy+tdEu9mExuZiV2CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erfan\\Desktop\\Workspace\\IT\\API-dotnet\\APIs\\Cities.API\\Cities.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erfan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\erfan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\erfan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\erfan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\erfan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\erfan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
